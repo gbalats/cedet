@@ -1,0 +1,4 @@
+/doc/info/
+/doc/texi/**/*.info
+/lisp/**/*.elc
+/lisp/**/*.el~
