@@ -2,3 +2,17 @@
 /doc/texi/**/*.info
 /lisp/**/*.elc
 /lisp/**/*.el~
+/lisp/**/loaddefs.el
+/lisp/cedet/semantic/bovine/f90-by.el
+/lisp/cedet/semantic/bovine/make-by.el
+/lisp/cedet/semantic/bovine/scm-by.el
+/lisp/cedet/semantic/grammar-wy.el
+/lisp/cedet/semantic/wisent/java-wy.el
+/lisp/cedet/semantic/wisent/java-tags-wy.el
+/lisp/cedet/semantic/wisent/javascript-wy.el
+/lisp/cedet/semantic/wisent/python-wy.el
+/lisp/cedet/semantic/wisent/calc-wy.el
+/lisp/cedet/semantic/bovine/c-by.el
+/lisp/cedet/semantic/bovine/erlang-by.el
+/lisp/cedet/cogre/wisent-dot-wy.el
+/lisp/cedet/srecode/srt-wy.el
